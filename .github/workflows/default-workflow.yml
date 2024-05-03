@@ -13,7 +13,7 @@ jobs:
       project-name: "springboot3"
       java-distribution: "zulu"
       java-version: "17"
-      gradle-version: "8.7"
+      gradle-version: "9.0"
     secrets: inherit
 
   call-workflow-sonarqube:
